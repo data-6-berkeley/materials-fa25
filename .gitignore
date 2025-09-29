@@ -183,3 +183,6 @@ pids
 # vim files
 .*.swo
 .*.swp
+
+# otter
+.OTTER_LOG
